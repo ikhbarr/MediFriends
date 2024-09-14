@@ -1,0 +1,1801 @@
+Unnamed: 0,Penyakit,Gejala_1,Gejala_2,Gejala_3,Gejala_4
+21,GERD,sakit perut,keasaman,bisul di lidah,muntah
+22,GERD,sakit perut,bisul di lidah,muntah,batuk
+23,GERD,sakit perut,keasaman,muntah,batuk
+24,GERD,sakit perut,keasaman,bisul di lidah,batuk
+25,GERD,sakit perut,keasaman,bisul di lidah,muntah
+26,GERD,sakit perut,keasaman,bisul di lidah,muntah
+27,GERD,keasaman,bisul di lidah,muntah,batuk
+28,GERD,sakit perut,bisul di lidah,muntah,batuk
+29,GERD,sakit perut,keasaman,muntah,batuk
+30,GERD,sakit perut,keasaman,bisul di lidah,batuk
+51,Penyakit tukak lambung,muntah,kehilangan nafsu makan,sakit perut,masuk angin
+52,Penyakit tukak lambung,muntah,gangguan pencernaan,sakit perut,masuk angin
+53,Penyakit tukak lambung,gangguan pencernaan,kehilangan nafsu makan,sakit perut,masuk angin
+54,Penyakit tukak lambung,muntah,kehilangan nafsu makan,sakit perut,masuk angin
+55,Penyakit tukak lambung,muntah,gangguan pencernaan,sakit perut,masuk angin
+56,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,masuk angin
+57,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+58,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+59,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+60,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+61,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+62,AIDS,bercak di tenggorokan,demam tinggi,kontak di luar nikah,
+63,AIDS,pengecilan otot,demam tinggi,kontak di luar nikah,
+64,AIDS,pengecilan otot,bercak di tenggorokan,kontak di luar nikah,
+65,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,
+66,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+67,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+68,AIDS,bercak di tenggorokan,demam tinggi,kontak di luar nikah,
+69,AIDS,pengecilan otot,demam tinggi,kontak di luar nikah,
+70,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,
+71,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+72,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+73,Diabetes,penurunan berat badan,kegelisahan,kelesuan,kadar gula tidak teratur
+74,Diabetes,kelelahan,kegelisahan,kelesuan,kadar gula tidak teratur
+75,Diabetes,kelelahan,penurunan berat badan,kelesuan,kadar gula tidak teratur
+76,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kadar gula tidak teratur
+77,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+78,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+79,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+80,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+101,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+102,Hipertensi,nyeri dada,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+103,Hipertensi,sakit kepala,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+104,Hipertensi,sakit kepala,nyeri dada,kehilangan keseimbangan,kurangnya konsentrasi
+105,Hipertensi,sakit kepala,nyeri dada,pusing,kurangnya konsentrasi
+106,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+107,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+108,Hipertensi,nyeri dada,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+109,Hipertensi,sakit kepala,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+110,Hipertensi,sakit kepala,nyeri dada,kehilangan keseimbangan,kurangnya konsentrasi
+111,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+112,Migrain,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+113,Migrain,keasaman,sakit kepala,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+114,Migrain,keasaman,gangguan pencernaan,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+115,Migrain,keasaman,gangguan pencernaan,sakit kepala,kelaparan berlebihan
+116,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+117,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+118,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+119,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+120,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+141,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+142,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+143,Penyakit kuning,muntah,kelelahan,penurunan berat badan,demam tinggi
+144,Penyakit kuning,gatal,kelelahan,penurunan berat badan,demam tinggi
+145,Penyakit kuning,gatal,muntah,penurunan berat badan,demam tinggi
+146,Penyakit kuning,gatal,muntah,kelelahan,demam tinggi
+147,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+148,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+149,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+150,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+151,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+152,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+153,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+154,Malaria,muntah,demam tinggi,berkeringat,sakit kepala
+155,Malaria,panas dingin,demam tinggi,berkeringat,sakit kepala
+156,Malaria,panas dingin,muntah,berkeringat,sakit kepala
+157,Malaria,panas dingin,muntah,demam tinggi,sakit kepala
+158,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+159,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+160,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+161,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+162,Cacar air,ruam kulit,kelelahan,kelesuan,demam tinggi
+163,Cacar air,gatal,kelelahan,kelesuan,demam tinggi
+164,Cacar air,gatal,ruam kulit,kelesuan,demam tinggi
+165,Cacar air,gatal,ruam kulit,kelelahan,demam tinggi
+166,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+167,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+168,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+169,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+170,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+171,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+172,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+173,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+174,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+175,demam berdarah,panas dingin,nyeri sendi,muntah,kelelahan
+176,demam berdarah,ruam kulit,nyeri sendi,muntah,kelelahan
+177,demam berdarah,ruam kulit,panas dingin,muntah,kelelahan
+178,demam berdarah,ruam kulit,panas dingin,nyeri sendi,kelelahan
+179,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+180,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+181,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+182,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+183,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+184,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+185,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+186,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+187,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+188,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+189,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+190,Penyakit tipus,panas dingin,kelelahan,demam tinggi,sakit kepala
+251,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+252,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+253,TBC,muntah,kelelahan,penurunan berat badan,batuk
+254,TBC,panas dingin,kelelahan,penurunan berat badan,batuk
+255,TBC,panas dingin,muntah,penurunan berat badan,batuk
+256,TBC,panas dingin,muntah,kelelahan,batuk
+257,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+258,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+259,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+260,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+261,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+262,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+263,Flu biasa,panas dingin,kelelahan,batuk,demam tinggi
+264,Flu biasa,bersin terus menerus,kelelahan,batuk,demam tinggi
+265,Flu biasa,bersin terus menerus,panas dingin,batuk,demam tinggi
+266,Flu biasa,bersin terus menerus,panas dingin,kelelahan,demam tinggi
+267,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+268,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+269,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+270,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+271,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+272,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+273,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+274,Radang paru-paru,kelelahan,batuk,demam tinggi,sesak napas
+275,Radang paru-paru,panas dingin,batuk,demam tinggi,sesak napas
+276,Radang paru-paru,panas dingin,kelelahan,demam tinggi,sesak napas
+277,Radang paru-paru,panas dingin,kelelahan,batuk,sesak napas
+278,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+279,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+280,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+281,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+282,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+283,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+284,Wasir dimorfik (tumpukan),nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja,iritasi di anus
+285,Wasir dimorfik (tumpukan),sembelit,nyeri di wilayah anal,darah dalam tinja,iritasi di anus
+286,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,darah dalam tinja,iritasi di anus
+287,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,iritasi di anus
+288,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+289,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+290,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+431,GERD,sakit perut,keasaman,bisul di lidah,muntah
+432,GERD,sakit perut,bisul di lidah,muntah,batuk
+433,GERD,sakit perut,keasaman,muntah,batuk
+434,GERD,sakit perut,keasaman,bisul di lidah,batuk
+435,GERD,sakit perut,keasaman,bisul di lidah,muntah
+436,GERD,sakit perut,keasaman,bisul di lidah,muntah
+437,GERD,keasaman,bisul di lidah,muntah,batuk
+438,GERD,sakit perut,bisul di lidah,muntah,batuk
+439,GERD,sakit perut,keasaman,muntah,batuk
+440,GERD,sakit perut,keasaman,bisul di lidah,batuk
+461,Penyakit tukak lambung,muntah,kehilangan nafsu makan,sakit perut,masuk angin
+462,Penyakit tukak lambung,muntah,gangguan pencernaan,sakit perut,masuk angin
+463,Penyakit tukak lambung,gangguan pencernaan,kehilangan nafsu makan,sakit perut,masuk angin
+464,Penyakit tukak lambung,muntah,kehilangan nafsu makan,sakit perut,masuk angin
+465,Penyakit tukak lambung,muntah,gangguan pencernaan,sakit perut,masuk angin
+466,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,masuk angin
+467,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+468,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+469,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+470,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+471,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+472,AIDS,bercak di tenggorokan,demam tinggi,kontak di luar nikah,
+473,AIDS,pengecilan otot,demam tinggi,kontak di luar nikah,
+474,AIDS,pengecilan otot,bercak di tenggorokan,kontak di luar nikah,
+475,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,
+476,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+477,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+478,AIDS,bercak di tenggorokan,demam tinggi,kontak di luar nikah,
+479,AIDS,pengecilan otot,demam tinggi,kontak di luar nikah,
+480,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,
+481,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+482,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+483,Diabetes,penurunan berat badan,kegelisahan,kelesuan,kadar gula tidak teratur
+484,Diabetes,kelelahan,kegelisahan,kelesuan,kadar gula tidak teratur
+485,Diabetes,kelelahan,penurunan berat badan,kelesuan,kadar gula tidak teratur
+486,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kadar gula tidak teratur
+487,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+488,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+489,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+490,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+511,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+512,Hipertensi,nyeri dada,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+513,Hipertensi,sakit kepala,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+514,Hipertensi,sakit kepala,nyeri dada,kehilangan keseimbangan,kurangnya konsentrasi
+515,Hipertensi,sakit kepala,nyeri dada,pusing,kurangnya konsentrasi
+516,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+517,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+518,Hipertensi,nyeri dada,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+519,Hipertensi,sakit kepala,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+520,Hipertensi,sakit kepala,nyeri dada,kehilangan keseimbangan,kurangnya konsentrasi
+521,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+522,Migrain,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+523,Migrain,keasaman,sakit kepala,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+524,Migrain,keasaman,gangguan pencernaan,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+525,Migrain,keasaman,gangguan pencernaan,sakit kepala,kelaparan berlebihan
+526,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+527,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+528,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+529,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+530,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+551,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+552,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+553,Penyakit kuning,muntah,kelelahan,penurunan berat badan,demam tinggi
+554,Penyakit kuning,gatal,kelelahan,penurunan berat badan,demam tinggi
+555,Penyakit kuning,gatal,muntah,penurunan berat badan,demam tinggi
+556,Penyakit kuning,gatal,muntah,kelelahan,demam tinggi
+557,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+558,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+559,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+560,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+561,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+562,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+563,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+564,Malaria,muntah,demam tinggi,berkeringat,sakit kepala
+565,Malaria,panas dingin,demam tinggi,berkeringat,sakit kepala
+566,Malaria,panas dingin,muntah,berkeringat,sakit kepala
+567,Malaria,panas dingin,muntah,demam tinggi,sakit kepala
+568,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+569,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+570,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+571,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+572,Cacar air,ruam kulit,kelelahan,kelesuan,demam tinggi
+573,Cacar air,gatal,kelelahan,kelesuan,demam tinggi
+574,Cacar air,gatal,ruam kulit,kelesuan,demam tinggi
+575,Cacar air,gatal,ruam kulit,kelelahan,demam tinggi
+576,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+577,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+578,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+579,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+580,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+581,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+582,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+583,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+584,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+585,demam berdarah,panas dingin,nyeri sendi,muntah,kelelahan
+586,demam berdarah,ruam kulit,nyeri sendi,muntah,kelelahan
+587,demam berdarah,ruam kulit,panas dingin,muntah,kelelahan
+588,demam berdarah,ruam kulit,panas dingin,nyeri sendi,kelelahan
+589,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+590,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+591,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+592,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+593,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+594,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+595,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+596,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+597,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+598,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+599,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+600,Penyakit tipus,panas dingin,kelelahan,demam tinggi,sakit kepala
+661,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+662,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+663,TBC,muntah,kelelahan,penurunan berat badan,batuk
+664,TBC,panas dingin,kelelahan,penurunan berat badan,batuk
+665,TBC,panas dingin,muntah,penurunan berat badan,batuk
+666,TBC,panas dingin,muntah,kelelahan,batuk
+667,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+668,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+669,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+670,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+671,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+672,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+673,Flu biasa,panas dingin,kelelahan,batuk,demam tinggi
+674,Flu biasa,bersin terus menerus,kelelahan,batuk,demam tinggi
+675,Flu biasa,bersin terus menerus,panas dingin,batuk,demam tinggi
+676,Flu biasa,bersin terus menerus,panas dingin,kelelahan,demam tinggi
+677,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+678,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+679,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+680,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+681,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+682,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+683,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+684,Radang paru-paru,kelelahan,batuk,demam tinggi,sesak napas
+685,Radang paru-paru,panas dingin,batuk,demam tinggi,sesak napas
+686,Radang paru-paru,panas dingin,kelelahan,demam tinggi,sesak napas
+687,Radang paru-paru,panas dingin,kelelahan,batuk,sesak napas
+688,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+689,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+690,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+691,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+692,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+693,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+694,Wasir dimorfik (tumpukan),nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja,iritasi di anus
+695,Wasir dimorfik (tumpukan),sembelit,nyeri di wilayah anal,darah dalam tinja,iritasi di anus
+696,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,darah dalam tinja,iritasi di anus
+697,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,iritasi di anus
+698,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+699,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+700,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+841,GERD,sakit perut,keasaman,bisul di lidah,muntah
+842,GERD,sakit perut,bisul di lidah,muntah,batuk
+843,GERD,sakit perut,keasaman,muntah,batuk
+844,GERD,sakit perut,keasaman,bisul di lidah,batuk
+845,GERD,sakit perut,keasaman,bisul di lidah,muntah
+846,GERD,sakit perut,keasaman,bisul di lidah,muntah
+847,GERD,keasaman,bisul di lidah,muntah,batuk
+848,GERD,sakit perut,bisul di lidah,muntah,batuk
+849,GERD,sakit perut,keasaman,muntah,batuk
+850,GERD,sakit perut,keasaman,bisul di lidah,batuk
+871,Penyakit tukak lambung,muntah,kehilangan nafsu makan,sakit perut,masuk angin
+872,Penyakit tukak lambung,muntah,gangguan pencernaan,sakit perut,masuk angin
+873,Penyakit tukak lambung,gangguan pencernaan,kehilangan nafsu makan,sakit perut,masuk angin
+874,Penyakit tukak lambung,muntah,kehilangan nafsu makan,sakit perut,masuk angin
+875,Penyakit tukak lambung,muntah,gangguan pencernaan,sakit perut,masuk angin
+876,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,masuk angin
+877,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+878,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+879,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+880,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+881,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+882,AIDS,bercak di tenggorokan,demam tinggi,kontak di luar nikah,
+883,AIDS,pengecilan otot,demam tinggi,kontak di luar nikah,
+884,AIDS,pengecilan otot,bercak di tenggorokan,kontak di luar nikah,
+885,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,
+886,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+887,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+888,AIDS,bercak di tenggorokan,demam tinggi,kontak di luar nikah,
+889,AIDS,pengecilan otot,demam tinggi,kontak di luar nikah,
+890,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,
+891,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+892,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+893,Diabetes,penurunan berat badan,kegelisahan,kelesuan,kadar gula tidak teratur
+894,Diabetes,kelelahan,kegelisahan,kelesuan,kadar gula tidak teratur
+895,Diabetes,kelelahan,penurunan berat badan,kelesuan,kadar gula tidak teratur
+896,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kadar gula tidak teratur
+897,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+898,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+899,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+900,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+921,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+922,Hipertensi,nyeri dada,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+923,Hipertensi,sakit kepala,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+924,Hipertensi,sakit kepala,nyeri dada,kehilangan keseimbangan,kurangnya konsentrasi
+925,Hipertensi,sakit kepala,nyeri dada,pusing,kurangnya konsentrasi
+926,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+927,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+928,Hipertensi,nyeri dada,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+929,Hipertensi,sakit kepala,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+930,Hipertensi,sakit kepala,nyeri dada,kehilangan keseimbangan,kurangnya konsentrasi
+931,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+932,Migrain,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+933,Migrain,keasaman,sakit kepala,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+934,Migrain,keasaman,gangguan pencernaan,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+935,Migrain,keasaman,gangguan pencernaan,sakit kepala,kelaparan berlebihan
+936,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+937,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+938,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+939,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+940,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+961,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+962,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+963,Penyakit kuning,muntah,kelelahan,penurunan berat badan,demam tinggi
+964,Penyakit kuning,gatal,kelelahan,penurunan berat badan,demam tinggi
+965,Penyakit kuning,gatal,muntah,penurunan berat badan,demam tinggi
+966,Penyakit kuning,gatal,muntah,kelelahan,demam tinggi
+967,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+968,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+969,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+970,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+971,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+972,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+973,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+974,Malaria,muntah,demam tinggi,berkeringat,sakit kepala
+975,Malaria,panas dingin,demam tinggi,berkeringat,sakit kepala
+976,Malaria,panas dingin,muntah,berkeringat,sakit kepala
+977,Malaria,panas dingin,muntah,demam tinggi,sakit kepala
+978,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+979,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+980,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+981,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+982,Cacar air,ruam kulit,kelelahan,kelesuan,demam tinggi
+983,Cacar air,gatal,kelelahan,kelesuan,demam tinggi
+984,Cacar air,gatal,ruam kulit,kelesuan,demam tinggi
+985,Cacar air,gatal,ruam kulit,kelelahan,demam tinggi
+986,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+987,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+988,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+989,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+990,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+991,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+992,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+993,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+994,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+995,demam berdarah,panas dingin,nyeri sendi,muntah,kelelahan
+996,demam berdarah,ruam kulit,nyeri sendi,muntah,kelelahan
+997,demam berdarah,ruam kulit,panas dingin,muntah,kelelahan
+998,demam berdarah,ruam kulit,panas dingin,nyeri sendi,kelelahan
+999,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+1000,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+1001,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1002,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1003,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1004,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1005,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1006,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1007,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1008,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1009,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1010,Penyakit tipus,panas dingin,kelelahan,demam tinggi,sakit kepala
+1071,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1072,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1073,TBC,muntah,kelelahan,penurunan berat badan,batuk
+1074,TBC,panas dingin,kelelahan,penurunan berat badan,batuk
+1075,TBC,panas dingin,muntah,penurunan berat badan,batuk
+1076,TBC,panas dingin,muntah,kelelahan,batuk
+1077,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1078,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1079,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1080,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1081,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1082,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1083,Flu biasa,panas dingin,kelelahan,batuk,demam tinggi
+1084,Flu biasa,bersin terus menerus,kelelahan,batuk,demam tinggi
+1085,Flu biasa,bersin terus menerus,panas dingin,batuk,demam tinggi
+1086,Flu biasa,bersin terus menerus,panas dingin,kelelahan,demam tinggi
+1087,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1088,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1089,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1090,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1091,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1092,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1093,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1094,Radang paru-paru,kelelahan,batuk,demam tinggi,sesak napas
+1095,Radang paru-paru,panas dingin,batuk,demam tinggi,sesak napas
+1096,Radang paru-paru,panas dingin,kelelahan,demam tinggi,sesak napas
+1097,Radang paru-paru,panas dingin,kelelahan,batuk,sesak napas
+1098,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1099,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1100,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1101,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+1102,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+1103,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+1104,Wasir dimorfik (tumpukan),nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja,iritasi di anus
+1105,Wasir dimorfik (tumpukan),sembelit,nyeri di wilayah anal,darah dalam tinja,iritasi di anus
+1106,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,darah dalam tinja,iritasi di anus
+1107,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,iritasi di anus
+1108,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+1109,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+1110,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+1251,GERD,sakit perut,keasaman,bisul di lidah,muntah
+1252,GERD,sakit perut,bisul di lidah,muntah,batuk
+1253,GERD,sakit perut,keasaman,muntah,batuk
+1254,GERD,sakit perut,keasaman,bisul di lidah,batuk
+1255,GERD,sakit perut,keasaman,bisul di lidah,muntah
+1256,GERD,sakit perut,keasaman,bisul di lidah,muntah
+1257,GERD,keasaman,bisul di lidah,muntah,batuk
+1258,GERD,sakit perut,bisul di lidah,muntah,batuk
+1259,GERD,sakit perut,keasaman,muntah,batuk
+1260,GERD,sakit perut,keasaman,bisul di lidah,batuk
+1281,Penyakit tukak lambung,muntah,kehilangan nafsu makan,sakit perut,masuk angin
+1282,Penyakit tukak lambung,muntah,gangguan pencernaan,sakit perut,masuk angin
+1283,Penyakit tukak lambung,gangguan pencernaan,kehilangan nafsu makan,sakit perut,masuk angin
+1284,Penyakit tukak lambung,muntah,kehilangan nafsu makan,sakit perut,masuk angin
+1285,Penyakit tukak lambung,muntah,gangguan pencernaan,sakit perut,masuk angin
+1286,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,masuk angin
+1287,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+1288,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+1289,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+1290,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+1291,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+1292,AIDS,bercak di tenggorokan,demam tinggi,kontak di luar nikah,
+1293,AIDS,pengecilan otot,demam tinggi,kontak di luar nikah,
+1294,AIDS,pengecilan otot,bercak di tenggorokan,kontak di luar nikah,
+1295,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,
+1296,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+1297,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+1298,AIDS,bercak di tenggorokan,demam tinggi,kontak di luar nikah,
+1299,AIDS,pengecilan otot,demam tinggi,kontak di luar nikah,
+1300,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,
+1301,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+1302,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+1303,Diabetes,penurunan berat badan,kegelisahan,kelesuan,kadar gula tidak teratur
+1304,Diabetes,kelelahan,kegelisahan,kelesuan,kadar gula tidak teratur
+1305,Diabetes,kelelahan,penurunan berat badan,kelesuan,kadar gula tidak teratur
+1306,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kadar gula tidak teratur
+1307,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+1308,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+1309,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+1310,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+1331,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+1332,Hipertensi,nyeri dada,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+1333,Hipertensi,sakit kepala,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+1334,Hipertensi,sakit kepala,nyeri dada,kehilangan keseimbangan,kurangnya konsentrasi
+1335,Hipertensi,sakit kepala,nyeri dada,pusing,kurangnya konsentrasi
+1336,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+1337,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+1338,Hipertensi,nyeri dada,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+1339,Hipertensi,sakit kepala,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+1340,Hipertensi,sakit kepala,nyeri dada,kehilangan keseimbangan,kurangnya konsentrasi
+1341,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+1342,Migrain,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+1343,Migrain,keasaman,sakit kepala,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+1344,Migrain,keasaman,gangguan pencernaan,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+1345,Migrain,keasaman,gangguan pencernaan,sakit kepala,kelaparan berlebihan
+1346,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+1347,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+1348,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+1349,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+1350,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+1371,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+1372,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+1373,Penyakit kuning,muntah,kelelahan,penurunan berat badan,demam tinggi
+1374,Penyakit kuning,gatal,kelelahan,penurunan berat badan,demam tinggi
+1375,Penyakit kuning,gatal,muntah,penurunan berat badan,demam tinggi
+1376,Penyakit kuning,gatal,muntah,kelelahan,demam tinggi
+1377,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+1378,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+1379,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+1380,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+1381,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+1382,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+1383,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+1384,Malaria,muntah,demam tinggi,berkeringat,sakit kepala
+1385,Malaria,panas dingin,demam tinggi,berkeringat,sakit kepala
+1386,Malaria,panas dingin,muntah,berkeringat,sakit kepala
+1387,Malaria,panas dingin,muntah,demam tinggi,sakit kepala
+1388,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+1389,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+1390,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+1391,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+1392,Cacar air,ruam kulit,kelelahan,kelesuan,demam tinggi
+1393,Cacar air,gatal,kelelahan,kelesuan,demam tinggi
+1394,Cacar air,gatal,ruam kulit,kelesuan,demam tinggi
+1395,Cacar air,gatal,ruam kulit,kelelahan,demam tinggi
+1396,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+1397,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+1398,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+1399,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+1400,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+1401,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+1402,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+1403,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+1404,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+1405,demam berdarah,panas dingin,nyeri sendi,muntah,kelelahan
+1406,demam berdarah,ruam kulit,nyeri sendi,muntah,kelelahan
+1407,demam berdarah,ruam kulit,panas dingin,muntah,kelelahan
+1408,demam berdarah,ruam kulit,panas dingin,nyeri sendi,kelelahan
+1409,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+1410,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+1411,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1412,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1413,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1414,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1415,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1416,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1417,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1418,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1419,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1420,Penyakit tipus,panas dingin,kelelahan,demam tinggi,sakit kepala
+1481,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1482,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1483,TBC,muntah,kelelahan,penurunan berat badan,batuk
+1484,TBC,panas dingin,kelelahan,penurunan berat badan,batuk
+1485,TBC,panas dingin,muntah,penurunan berat badan,batuk
+1486,TBC,panas dingin,muntah,kelelahan,batuk
+1487,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1488,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1489,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1490,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1491,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1492,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1493,Flu biasa,panas dingin,kelelahan,batuk,demam tinggi
+1494,Flu biasa,bersin terus menerus,kelelahan,batuk,demam tinggi
+1495,Flu biasa,bersin terus menerus,panas dingin,batuk,demam tinggi
+1496,Flu biasa,bersin terus menerus,panas dingin,kelelahan,demam tinggi
+1497,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1498,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1499,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1500,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1501,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1502,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1503,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1504,Radang paru-paru,kelelahan,batuk,demam tinggi,sesak napas
+1505,Radang paru-paru,panas dingin,batuk,demam tinggi,sesak napas
+1506,Radang paru-paru,panas dingin,kelelahan,demam tinggi,sesak napas
+1507,Radang paru-paru,panas dingin,kelelahan,batuk,sesak napas
+1508,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1509,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1510,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1511,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+1512,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+1513,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+1514,Wasir dimorfik (tumpukan),nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja,iritasi di anus
+1515,Wasir dimorfik (tumpukan),sembelit,nyeri di wilayah anal,darah dalam tinja,iritasi di anus
+1516,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,darah dalam tinja,iritasi di anus
+1517,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,iritasi di anus
+1518,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+1519,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+1520,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+1661,GERD,sakit perut,keasaman,bisul di lidah,muntah
+1662,GERD,sakit perut,bisul di lidah,muntah,batuk
+1663,GERD,sakit perut,keasaman,muntah,batuk
+1664,GERD,sakit perut,keasaman,bisul di lidah,batuk
+1665,GERD,sakit perut,keasaman,bisul di lidah,muntah
+1666,GERD,sakit perut,keasaman,bisul di lidah,muntah
+1667,GERD,keasaman,bisul di lidah,muntah,batuk
+1668,GERD,sakit perut,bisul di lidah,muntah,batuk
+1669,GERD,sakit perut,keasaman,muntah,batuk
+1670,GERD,sakit perut,keasaman,bisul di lidah,batuk
+1691,Penyakit tukak lambung,muntah,kehilangan nafsu makan,sakit perut,masuk angin
+1692,Penyakit tukak lambung,muntah,gangguan pencernaan,sakit perut,masuk angin
+1693,Penyakit tukak lambung,gangguan pencernaan,kehilangan nafsu makan,sakit perut,masuk angin
+1694,Penyakit tukak lambung,muntah,kehilangan nafsu makan,sakit perut,masuk angin
+1695,Penyakit tukak lambung,muntah,gangguan pencernaan,sakit perut,masuk angin
+1696,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,masuk angin
+1697,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+1698,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+1699,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+1700,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+1701,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+1702,AIDS,bercak di tenggorokan,demam tinggi,kontak di luar nikah,
+1703,AIDS,pengecilan otot,demam tinggi,kontak di luar nikah,
+1704,AIDS,pengecilan otot,bercak di tenggorokan,kontak di luar nikah,
+1705,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,
+1706,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+1707,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+1708,AIDS,bercak di tenggorokan,demam tinggi,kontak di luar nikah,
+1709,AIDS,pengecilan otot,demam tinggi,kontak di luar nikah,
+1710,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,
+1711,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+1712,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+1713,Diabetes,penurunan berat badan,kegelisahan,kelesuan,kadar gula tidak teratur
+1714,Diabetes,kelelahan,kegelisahan,kelesuan,kadar gula tidak teratur
+1715,Diabetes,kelelahan,penurunan berat badan,kelesuan,kadar gula tidak teratur
+1716,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kadar gula tidak teratur
+1717,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+1718,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+1719,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+1720,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+1741,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+1742,Hipertensi,nyeri dada,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+1743,Hipertensi,sakit kepala,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+1744,Hipertensi,sakit kepala,nyeri dada,kehilangan keseimbangan,kurangnya konsentrasi
+1745,Hipertensi,sakit kepala,nyeri dada,pusing,kurangnya konsentrasi
+1746,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+1747,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+1748,Hipertensi,nyeri dada,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+1749,Hipertensi,sakit kepala,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+1750,Hipertensi,sakit kepala,nyeri dada,kehilangan keseimbangan,kurangnya konsentrasi
+1751,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+1752,Migrain,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+1753,Migrain,keasaman,sakit kepala,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+1754,Migrain,keasaman,gangguan pencernaan,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+1755,Migrain,keasaman,gangguan pencernaan,sakit kepala,kelaparan berlebihan
+1756,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+1757,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+1758,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+1759,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+1760,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+1781,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+1782,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+1783,Penyakit kuning,muntah,kelelahan,penurunan berat badan,demam tinggi
+1784,Penyakit kuning,gatal,kelelahan,penurunan berat badan,demam tinggi
+1785,Penyakit kuning,gatal,muntah,penurunan berat badan,demam tinggi
+1786,Penyakit kuning,gatal,muntah,kelelahan,demam tinggi
+1787,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+1788,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+1789,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+1790,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+1791,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+1792,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+1793,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+1794,Malaria,muntah,demam tinggi,berkeringat,sakit kepala
+1795,Malaria,panas dingin,demam tinggi,berkeringat,sakit kepala
+1796,Malaria,panas dingin,muntah,berkeringat,sakit kepala
+1797,Malaria,panas dingin,muntah,demam tinggi,sakit kepala
+1798,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+1799,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+1800,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+1801,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+1802,Cacar air,ruam kulit,kelelahan,kelesuan,demam tinggi
+1803,Cacar air,gatal,kelelahan,kelesuan,demam tinggi
+1804,Cacar air,gatal,ruam kulit,kelesuan,demam tinggi
+1805,Cacar air,gatal,ruam kulit,kelelahan,demam tinggi
+1806,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+1807,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+1808,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+1809,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+1810,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+1811,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+1812,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+1813,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+1814,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+1815,demam berdarah,panas dingin,nyeri sendi,muntah,kelelahan
+1816,demam berdarah,ruam kulit,nyeri sendi,muntah,kelelahan
+1817,demam berdarah,ruam kulit,panas dingin,muntah,kelelahan
+1818,demam berdarah,ruam kulit,panas dingin,nyeri sendi,kelelahan
+1819,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+1820,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+1821,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1822,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1823,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1824,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1825,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1826,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1827,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1828,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1829,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+1830,Penyakit tipus,panas dingin,kelelahan,demam tinggi,sakit kepala
+1891,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1892,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1893,TBC,muntah,kelelahan,penurunan berat badan,batuk
+1894,TBC,panas dingin,kelelahan,penurunan berat badan,batuk
+1895,TBC,panas dingin,muntah,penurunan berat badan,batuk
+1896,TBC,panas dingin,muntah,kelelahan,batuk
+1897,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1898,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1899,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1900,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+1901,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1902,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1903,Flu biasa,panas dingin,kelelahan,batuk,demam tinggi
+1904,Flu biasa,bersin terus menerus,kelelahan,batuk,demam tinggi
+1905,Flu biasa,bersin terus menerus,panas dingin,batuk,demam tinggi
+1906,Flu biasa,bersin terus menerus,panas dingin,kelelahan,demam tinggi
+1907,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1908,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1909,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1910,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+1911,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1912,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1913,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1914,Radang paru-paru,kelelahan,batuk,demam tinggi,sesak napas
+1915,Radang paru-paru,panas dingin,batuk,demam tinggi,sesak napas
+1916,Radang paru-paru,panas dingin,kelelahan,demam tinggi,sesak napas
+1917,Radang paru-paru,panas dingin,kelelahan,batuk,sesak napas
+1918,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1919,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1920,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+1921,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+1922,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+1923,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+1924,Wasir dimorfik (tumpukan),nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja,iritasi di anus
+1925,Wasir dimorfik (tumpukan),sembelit,nyeri di wilayah anal,darah dalam tinja,iritasi di anus
+1926,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,darah dalam tinja,iritasi di anus
+1927,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,iritasi di anus
+1928,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+1929,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+1930,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2071,GERD,sakit perut,keasaman,bisul di lidah,muntah
+2072,GERD,sakit perut,bisul di lidah,muntah,batuk
+2073,GERD,sakit perut,keasaman,muntah,batuk
+2074,GERD,sakit perut,keasaman,bisul di lidah,batuk
+2075,GERD,sakit perut,keasaman,bisul di lidah,muntah
+2076,GERD,sakit perut,keasaman,bisul di lidah,muntah
+2077,GERD,keasaman,bisul di lidah,muntah,batuk
+2078,GERD,sakit perut,bisul di lidah,muntah,batuk
+2079,GERD,sakit perut,keasaman,muntah,batuk
+2080,GERD,sakit perut,keasaman,bisul di lidah,batuk
+2101,Penyakit tukak lambung,muntah,kehilangan nafsu makan,sakit perut,masuk angin
+2102,Penyakit tukak lambung,muntah,gangguan pencernaan,sakit perut,masuk angin
+2103,Penyakit tukak lambung,gangguan pencernaan,kehilangan nafsu makan,sakit perut,masuk angin
+2104,Penyakit tukak lambung,muntah,kehilangan nafsu makan,sakit perut,masuk angin
+2105,Penyakit tukak lambung,muntah,gangguan pencernaan,sakit perut,masuk angin
+2106,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,masuk angin
+2107,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+2108,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+2109,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+2110,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+2111,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+2112,AIDS,bercak di tenggorokan,demam tinggi,kontak di luar nikah,
+2113,AIDS,pengecilan otot,demam tinggi,kontak di luar nikah,
+2114,AIDS,pengecilan otot,bercak di tenggorokan,kontak di luar nikah,
+2115,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,
+2116,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+2117,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+2118,AIDS,bercak di tenggorokan,demam tinggi,kontak di luar nikah,
+2119,AIDS,pengecilan otot,demam tinggi,kontak di luar nikah,
+2120,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,
+2121,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2122,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2123,Diabetes,penurunan berat badan,kegelisahan,kelesuan,kadar gula tidak teratur
+2124,Diabetes,kelelahan,kegelisahan,kelesuan,kadar gula tidak teratur
+2125,Diabetes,kelelahan,penurunan berat badan,kelesuan,kadar gula tidak teratur
+2126,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kadar gula tidak teratur
+2127,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2128,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2129,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2130,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2151,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+2152,Hipertensi,nyeri dada,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+2153,Hipertensi,sakit kepala,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+2154,Hipertensi,sakit kepala,nyeri dada,kehilangan keseimbangan,kurangnya konsentrasi
+2155,Hipertensi,sakit kepala,nyeri dada,pusing,kurangnya konsentrasi
+2156,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+2157,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+2158,Hipertensi,nyeri dada,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+2159,Hipertensi,sakit kepala,pusing,kehilangan keseimbangan,kurangnya konsentrasi
+2160,Hipertensi,sakit kepala,nyeri dada,kehilangan keseimbangan,kurangnya konsentrasi
+2161,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2162,Migrain,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+2163,Migrain,keasaman,sakit kepala,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+2164,Migrain,keasaman,gangguan pencernaan,penglihatan kabur dan terdistorsi,kelaparan berlebihan
+2165,Migrain,keasaman,gangguan pencernaan,sakit kepala,kelaparan berlebihan
+2166,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2167,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2168,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2169,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2170,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2191,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2192,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2193,Penyakit kuning,muntah,kelelahan,penurunan berat badan,demam tinggi
+2194,Penyakit kuning,gatal,kelelahan,penurunan berat badan,demam tinggi
+2195,Penyakit kuning,gatal,muntah,penurunan berat badan,demam tinggi
+2196,Penyakit kuning,gatal,muntah,kelelahan,demam tinggi
+2197,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2198,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2199,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2200,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2201,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2202,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2203,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2204,Malaria,muntah,demam tinggi,berkeringat,sakit kepala
+2205,Malaria,panas dingin,demam tinggi,berkeringat,sakit kepala
+2206,Malaria,panas dingin,muntah,berkeringat,sakit kepala
+2207,Malaria,panas dingin,muntah,demam tinggi,sakit kepala
+2208,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2209,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2210,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2211,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2212,Cacar air,ruam kulit,kelelahan,kelesuan,demam tinggi
+2213,Cacar air,gatal,kelelahan,kelesuan,demam tinggi
+2214,Cacar air,gatal,ruam kulit,kelesuan,demam tinggi
+2215,Cacar air,gatal,ruam kulit,kelelahan,demam tinggi
+2216,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2217,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2218,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2219,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2220,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2221,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2222,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2223,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2224,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2225,demam berdarah,panas dingin,nyeri sendi,muntah,kelelahan
+2226,demam berdarah,ruam kulit,nyeri sendi,muntah,kelelahan
+2227,demam berdarah,ruam kulit,panas dingin,muntah,kelelahan
+2228,demam berdarah,ruam kulit,panas dingin,nyeri sendi,kelelahan
+2229,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2230,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2231,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2232,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2233,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2234,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2235,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2236,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2237,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2238,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2239,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2240,Penyakit tipus,panas dingin,kelelahan,demam tinggi,sakit kepala
+2301,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2302,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2303,TBC,muntah,kelelahan,penurunan berat badan,batuk
+2304,TBC,panas dingin,kelelahan,penurunan berat badan,batuk
+2305,TBC,panas dingin,muntah,penurunan berat badan,batuk
+2306,TBC,panas dingin,muntah,kelelahan,batuk
+2307,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2308,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2309,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2310,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2311,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2312,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2313,Flu biasa,panas dingin,kelelahan,batuk,demam tinggi
+2314,Flu biasa,bersin terus menerus,kelelahan,batuk,demam tinggi
+2315,Flu biasa,bersin terus menerus,panas dingin,batuk,demam tinggi
+2316,Flu biasa,bersin terus menerus,panas dingin,kelelahan,demam tinggi
+2317,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2318,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2319,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2320,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2321,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2322,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2323,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2324,Radang paru-paru,kelelahan,batuk,demam tinggi,sesak napas
+2325,Radang paru-paru,panas dingin,batuk,demam tinggi,sesak napas
+2326,Radang paru-paru,panas dingin,kelelahan,demam tinggi,sesak napas
+2327,Radang paru-paru,panas dingin,kelelahan,batuk,sesak napas
+2328,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2329,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2330,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2331,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2332,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2333,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2334,Wasir dimorfik (tumpukan),nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja,iritasi di anus
+2335,Wasir dimorfik (tumpukan),sembelit,nyeri di wilayah anal,darah dalam tinja,iritasi di anus
+2336,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,darah dalam tinja,iritasi di anus
+2337,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,iritasi di anus
+2338,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2339,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2340,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2463,GERD,sakit perut,keasaman,bisul di lidah,muntah
+2466,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+2467,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+2468,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2471,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+2472,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2475,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2476,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2477,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2478,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2479,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2486,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2487,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2488,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2489,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2504,GERD,sakit perut,keasaman,bisul di lidah,muntah
+2507,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+2508,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+2509,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2512,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+2513,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2516,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2517,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2518,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2519,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2520,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2527,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2528,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2529,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2530,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2545,GERD,sakit perut,keasaman,bisul di lidah,muntah
+2548,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+2549,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+2550,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2553,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+2554,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2557,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2558,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2559,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2560,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2561,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2568,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2569,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2570,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2571,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2586,GERD,sakit perut,keasaman,bisul di lidah,muntah
+2589,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+2590,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+2591,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2594,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+2595,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2598,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2599,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2600,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2601,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2602,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2609,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2610,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2611,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2612,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2627,GERD,sakit perut,keasaman,bisul di lidah,muntah
+2630,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+2631,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+2632,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2635,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+2636,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2639,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2640,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2641,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2642,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2643,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2650,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2651,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2652,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2653,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2668,GERD,sakit perut,keasaman,bisul di lidah,muntah
+2671,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+2672,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+2673,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2676,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+2677,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2680,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2681,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2682,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2683,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2684,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2691,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2692,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2693,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2694,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2709,GERD,sakit perut,keasaman,bisul di lidah,muntah
+2712,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+2713,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+2714,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2717,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+2718,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2721,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2722,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2723,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2724,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2725,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2732,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2733,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2734,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2735,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2750,GERD,sakit perut,keasaman,bisul di lidah,muntah
+2753,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+2754,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+2755,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2758,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+2759,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2762,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2763,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2764,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2765,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2766,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2773,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2774,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2775,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2776,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2791,GERD,sakit perut,keasaman,bisul di lidah,muntah
+2794,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+2795,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+2796,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2799,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+2800,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2803,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2804,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2805,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2806,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2807,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2814,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2815,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2816,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2817,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2832,GERD,sakit perut,keasaman,bisul di lidah,muntah
+2835,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+2836,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+2837,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2840,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+2841,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2844,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2845,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2846,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2847,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2848,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2855,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2856,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2857,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2858,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2873,GERD,sakit perut,keasaman,bisul di lidah,muntah
+2876,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+2877,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+2878,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2881,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+2882,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2885,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2886,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2887,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2888,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2889,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2896,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2897,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2898,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2899,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2914,GERD,sakit perut,keasaman,bisul di lidah,muntah
+2917,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+2918,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+2919,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2922,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+2923,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2926,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2927,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2928,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2929,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2930,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2937,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2938,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2939,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2940,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2955,GERD,sakit perut,keasaman,bisul di lidah,muntah
+2958,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+2959,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+2960,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+2963,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+2964,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+2967,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+2968,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+2969,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+2970,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+2971,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+2978,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+2979,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+2980,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+2981,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+2996,GERD,sakit perut,keasaman,bisul di lidah,muntah
+2999,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3000,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3001,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3004,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3005,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3008,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3009,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3010,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3011,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3012,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3019,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3020,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3021,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3022,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3037,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3040,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3041,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3042,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3045,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3046,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3049,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3050,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3051,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3052,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3053,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3060,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3061,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3062,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3063,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3078,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3081,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3082,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3083,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3086,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3087,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3090,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3091,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3092,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3093,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3094,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3101,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3102,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3103,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3104,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3119,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3122,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3123,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3124,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3127,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3128,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3131,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3132,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3133,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3134,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3135,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3142,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3143,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3144,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3145,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3160,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3163,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3164,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3165,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3168,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3169,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3172,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3173,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3174,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3175,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3176,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3183,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3184,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3185,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3186,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3201,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3204,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3205,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3206,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3209,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3210,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3213,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3214,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3215,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3216,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3217,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3224,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3225,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3226,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3227,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3242,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3245,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3246,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3247,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3250,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3251,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3254,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3255,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3256,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3257,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3258,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3265,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3266,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3267,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3268,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3283,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3286,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3287,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3288,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3291,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3292,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3295,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3296,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3297,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3298,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3299,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3306,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3307,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3308,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3309,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3324,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3327,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3328,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3329,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3332,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3333,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3336,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3337,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3338,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3339,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3340,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3347,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3348,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3349,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3350,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3365,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3368,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3369,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3370,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3373,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3374,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3377,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3378,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3379,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3380,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3381,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3388,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3389,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3390,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3391,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3406,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3409,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3410,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3411,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3414,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3415,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3418,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3419,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3420,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3421,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3422,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3429,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3430,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3431,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3432,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3447,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3450,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3451,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3452,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3455,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3456,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3459,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3460,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3461,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3462,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3463,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3470,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3471,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3472,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3473,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3488,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3491,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3492,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3493,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3496,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3497,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3500,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3501,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3502,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3503,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3504,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3511,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3512,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3513,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3514,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3529,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3532,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3533,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3534,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3537,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3538,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3541,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3542,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3543,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3544,demam berdarah,ruam kulit,panas dingin,terus menerus_bersin terus menerus terus menerus,muntah
+3545,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3552,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3553,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3554,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3555,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3570,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3573,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3574,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3575,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3578,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3579,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3582,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3583,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3584,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3585,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3586,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3593,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3594,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3595,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3596,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3611,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3614,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3615,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3616,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3619,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3620,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3623,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3624,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3625,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3626,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3627,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3634,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3635,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3636,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3637,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3652,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3655,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3656,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3657,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3660,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3661,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3664,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3665,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3666,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3667,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3668,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3675,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3676,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3677,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3678,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3693,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3696,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3697,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3698,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3701,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3702,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3705,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3706,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3707,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3708,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3709,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3716,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3717,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3718,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3719,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3734,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3737,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3738,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3739,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3742,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3743,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3746,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3747,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3748,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3749,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3750,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3757,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3758,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3759,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3760,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3775,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3778,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3779,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3780,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3783,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3784,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3787,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3788,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3789,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3790,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3791,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3798,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3799,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3800,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3801,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3816,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3819,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3820,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3821,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3824,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3825,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3828,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3829,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3830,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3831,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3832,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3839,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3840,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3841,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3842,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3857,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3860,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3861,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3862,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3865,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3866,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3869,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3870,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3871,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3872,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3873,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3880,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3881,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3882,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3883,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3898,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3901,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3902,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3903,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3906,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3907,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3910,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3911,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3912,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3913,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3914,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3921,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3922,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3923,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3924,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3939,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3942,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3943,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3944,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3947,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3948,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3951,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3952,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3953,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3954,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3955,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+3962,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+3963,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+3964,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+3965,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+3980,GERD,sakit perut,keasaman,bisul di lidah,muntah
+3983,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+3984,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+3985,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+3988,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+3989,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+3992,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+3993,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+3994,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+3995,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+3996,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4003,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4004,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4005,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4006,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4021,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4024,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4025,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4026,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4029,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4030,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4033,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4034,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4035,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4036,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4037,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4044,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4045,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4046,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4047,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4062,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4065,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4066,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4067,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4070,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4071,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4074,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4075,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4076,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4077,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4078,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4085,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4086,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4087,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4088,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4103,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4106,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4107,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4108,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4111,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4112,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4115,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4116,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4117,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4118,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4119,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4126,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4127,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4128,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4129,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4144,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4147,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4148,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4149,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4152,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4153,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4156,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4157,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4158,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4159,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4160,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4167,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4168,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4169,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4170,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4185,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4188,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4189,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4190,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4193,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4194,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4197,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4198,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4199,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4200,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4201,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4208,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4209,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4210,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4211,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4226,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4229,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4230,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4231,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4234,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4235,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4238,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4239,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4240,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4241,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4242,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4249,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4250,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4251,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4252,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4267,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4270,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4271,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4272,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4275,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4276,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4279,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4280,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4281,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4282,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4283,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4290,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4291,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4292,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4293,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4308,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4311,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4312,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4313,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4316,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4317,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4320,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4321,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4322,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4323,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4324,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4331,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4332,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4333,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4334,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4349,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4352,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4353,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4354,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4357,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4358,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4361,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4362,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4363,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4364,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4365,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4372,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4373,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4374,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4375,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4390,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4393,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4394,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4395,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4398,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4399,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4402,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4403,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4404,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4405,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4406,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4413,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4414,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4415,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4416,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4431,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4434,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4435,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4436,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4439,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4440,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4443,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4444,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4445,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4446,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4447,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4454,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4455,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4456,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4457,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4472,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4475,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4476,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4477,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4480,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4481,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4484,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4485,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4486,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4487,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4488,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4495,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4496,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4497,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4498,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4513,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4516,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4517,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4518,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4521,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4522,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4525,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4526,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4527,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4528,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4529,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4536,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4537,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4538,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4539,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4554,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4557,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4558,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4559,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4562,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4563,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4566,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4567,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4568,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4569,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4570,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4577,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4578,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4579,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4580,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4595,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4598,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4599,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4600,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4603,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4604,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4607,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4608,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4609,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4610,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4611,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4618,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4619,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4620,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4621,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4636,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4639,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4640,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4641,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4644,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4645,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4648,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4649,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4650,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4651,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4652,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4659,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4660,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4661,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4662,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4677,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4680,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4681,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4682,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4685,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4686,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4689,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4690,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4691,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4692,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4693,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4700,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4701,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4702,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4703,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4718,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4721,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4722,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4723,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4726,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4727,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4730,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4731,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4732,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4733,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4734,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4741,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4742,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4743,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4744,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4759,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4762,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4763,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4764,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4767,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4768,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4771,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4772,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4773,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4774,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4775,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4782,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4783,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4784,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4785,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4800,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4803,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4804,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4805,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4808,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4809,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4812,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4813,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4814,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4815,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4816,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4823,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4824,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4825,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4826,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4841,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4844,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4845,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4846,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4849,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4850,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4853,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4854,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4855,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4856,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4857,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4864,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4865,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4866,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4867,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja
+4882,GERD,sakit perut,keasaman,bisul di lidah,muntah
+4885,Penyakit tukak lambung,muntah,gangguan pencernaan,kehilangan nafsu makan,sakit perut
+4886,AIDS,pengecilan otot,bercak di tenggorokan,demam tinggi,kontak di luar nikah
+4887,Diabetes,kelelahan,penurunan berat badan,kegelisahan,kelesuan
+4890,Hipertensi,sakit kepala,nyeri dada,pusing,kehilangan keseimbangan
+4891,Migrain,keasaman,gangguan pencernaan,sakit kepala,penglihatan kabur dan terdistorsi
+4894,Penyakit kuning,gatal,muntah,kelelahan,penurunan berat badan
+4895,Malaria,panas dingin,muntah,demam tinggi,berkeringat
+4896,Cacar air,gatal,ruam kulit,kelelahan,kelesuan
+4897,demam berdarah,ruam kulit,panas dingin,nyeri sendi,muntah
+4898,Penyakit tipus,panas dingin,muntah,kelelahan,demam tinggi
+4905,TBC,panas dingin,muntah,kelelahan,penurunan berat badan
+4906,Flu biasa,bersin terus menerus,panas dingin,kelelahan,batuk
+4907,Radang paru-paru,panas dingin,kelelahan,batuk,demam tinggi
+4908,Wasir dimorfik (tumpukan),sembelit,nyeri saat buang air besar,nyeri di wilayah anal,darah dalam tinja

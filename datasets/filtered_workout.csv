@@ -1,0 +1,151 @@
+Unnamed: 0.1,Unnamed: 0,penyakit,olahraga
+20,20,GERD,Konsumsilah makanan dalam porsi kecil
+21,21,GERD,"Hindari makanan pemicu (pedas, berlemak)"
+22,22,GERD,Makanlah makanan berserat tinggi
+23,23,GERD,Batasi kafein dan alkohol
+24,24,GERD,Kunyah makanan secara menyeluruh
+25,25,GERD,Hindari makan larut malam
+26,26,GERD,Konsumsilah buah-buahan non-jeruk
+27,27,GERD,Sertakan protein tanpa lemak
+28,28,GERD,Tetap terhidrasi
+29,29,GERD,Hindari minuman berkarbonasi
+50,50,Penyakit tukak lambung,Konsumsilah makanan dalam porsi kecil dan lebih sering
+51,51,Penyakit tukak lambung,"Hindari makanan pemicu (pedas, asam)"
+52,52,Penyakit tukak lambung,Sertakan makanan berserat tinggi
+53,53,Penyakit tukak lambung,Batasi kafein dan alkohol
+54,54,Penyakit tukak lambung,Tetap terhidrasi
+55,55,Penyakit tukak lambung,Konsumsi probiotik
+56,56,Penyakit tukak lambung,Sertakan protein tanpa lemak
+57,57,Penyakit tukak lambung,Sertakan makanan kaya antioksidan
+58,58,Penyakit tukak lambung,Batasi makanan olahan
+59,59,Penyakit tukak lambung,Hindari merokok dan alkohol
+60,60,AIDS,Ikuti diet seimbang dan bergizi
+61,61,AIDS,Sertakan protein tanpa lemak
+62,62,AIDS,Konsumsilah makanan yang kaya nutrisi
+63,63,AIDS,Tetap terhidrasi
+64,64,AIDS,Sertakan lemak sehat
+65,65,AIDS,Hindari makanan mentah atau setengah matang
+66,66,AIDS,Batasi makanan dan minuman manis
+67,67,AIDS,Konsumsilah makanan yang meningkatkan kekebalan tubuh
+68,68,AIDS,Konsumsi suplemen yang diresepkan
+69,69,AIDS,Konsultasikan dengan profesional kesehatan
+70,70,Diabetes,Pantau asupan karbohidrat
+71,71,Diabetes,Makanlah makanan yang seimbang
+72,72,Diabetes,Sertakan protein tanpa lemak
+73,73,Diabetes,Konsumsi makanan berserat tinggi
+74,74,Diabetes,Tetap terhidrasi
+75,75,Diabetes,Batasi makanan dan minuman manis
+76,76,Diabetes,Sertakan lemak sehat
+77,77,Diabetes,Pantau kadar gula darah
+78,78,Diabetes,Konsultasikan dengan ahli diet terdaftar
+79,79,Diabetes,Minum obat yang diresepkan sesuai petunjuk
+100,100,Hipertensi,Ikuti diet DASH (Pendekatan Diet untuk Menghentikan Hipertensi)
+101,101,Hipertensi,Batasi asupan natrium
+102,102,Hipertensi,Sertakan makanan kaya kalium
+103,103,Hipertensi,Tetap terhidrasi
+104,104,Hipertensi,Konsumsi makanan kaya kalsium
+105,105,Hipertensi,Batasi konsumsi alkohol
+106,106,Hipertensi,Sertakan makanan kaya magnesium
+107,107,Hipertensi,Konsumsi asam lemak omega-3
+108,108,Hipertensi,Batasi makanan olahan
+109,109,Hipertensi,Konsultasikan dengan profesional kesehatan
+110,110,Migrain,Identifikasi dan hindari makanan pemicu
+111,111,Migrain,Tetap terhidrasi
+112,112,Migrain,Sertakan makanan kaya magnesium
+113,113,Migrain,Konsumsi asam lemak omega-3
+114,114,Migrain,Batasi kafein dan alkohol
+115,115,Migrain,Konsumsi makanan kaya riboflavin
+116,116,Migrain,Batasi makanan olahan
+117,117,Migrain,Pertahankan waktu makan yang teratur
+118,118,Migrain,Konsultasikan dengan profesional kesehatan
+119,119,Migrain,Kelola stres
+140,140,Penyakit kuning,Tetap terhidrasi
+141,141,Penyakit kuning,Konsumsilah makanan yang kaya nutrisi
+142,142,Penyakit kuning,Sertakan makanan kaya protein
+143,143,Penyakit kuning,Konsumsilah makanan yang mudah dicerna
+144,144,Penyakit kuning,Batasi makanan berlemak
+145,145,Penyakit kuning,Hindari alkohol dan kafein
+146,146,Penyakit kuning,Sertakan makanan kaya vitamin C
+147,147,Penyakit kuning,Konsultasikan dengan profesional kesehatan
+148,148,Penyakit kuning,Istirahat dan hemat energi
+149,149,Penyakit kuning,Lanjutkan diet normal secara bertahap
+150,150,Malaria,Tetap terhidrasi
+151,151,Malaria,Konsumsilah makanan yang kaya nutrisi
+152,152,Malaria,Sertakan makanan kaya protein
+153,153,Malaria,Konsumsilah makanan yang kaya akan antioksidan
+154,154,Malaria,Batasi makanan berlemak dan berminyak
+155,155,Malaria,Hindari alkohol dan kafein
+156,156,Malaria,Sertakan makanan kaya vitamin C
+157,157,Malaria,Konsultasikan dengan profesional kesehatan
+158,158,Malaria,Istirahat dan hemat energi
+159,159,Malaria,Lanjutkan diet normal secara bertahap
+160,160,Cacar air,Tetap terhidrasi
+161,161,Cacar air,Sertakan makanan yang mudah dicerna
+162,162,Cacar air,Sertakan makanan kaya vitamin C
+163,163,Cacar air,Konsumsi makanan kaya protein
+164,164,Cacar air,Sertakan makanan kaya seng
+165,165,Cacar air,Hindari makanan pedas dan asam
+166,166,Cacar air,Konsultasikan dengan profesional kesehatan
+167,167,Cacar air,Praktikkan kebersihan yang baik
+168,168,Cacar air,Istirahat dan hemat energi
+169,169,Cacar air,Lanjutkan diet normal secara bertahap
+170,170,demam berdarah,Tetap terhidrasi
+171,171,demam berdarah,Sertakan makanan kaya nutrisi
+172,172,demam berdarah,Konsumsilah makanan yang kaya vitamin C dan antioksidan
+173,173,demam berdarah,Batasi makanan berlemak dan berminyak
+174,174,demam berdarah,Hindari kafein dan alkohol
+175,175,demam berdarah,Sertakan makanan yang lembut dan mudah dicerna
+176,176,demam berdarah,Konsultasikan dengan profesional kesehatan
+177,177,demam berdarah,Istirahat dan hemat energi
+178,178,demam berdarah,Lanjutkan diet normal secara bertahap
+179,179,demam berdarah,Ikuti rekomendasi medis
+180,180,Penyakit tipus,Konsumsilah makanan yang mudah dicerna
+181,181,Penyakit tipus,Tetap terhidrasi
+182,182,Penyakit tipus,Sertakan makanan kaya nutrisi
+183,183,Penyakit tipus,Konsumsilah makanan yang kaya vitamin C dan antioksidan
+184,184,Penyakit tipus,Sertakan makanan kaya protein
+185,185,Penyakit tipus,Hindari makanan berlemak dan berminyak
+186,186,Penyakit tipus,Konsultasikan dengan profesional kesehatan
+187,187,Penyakit tipus,Lanjutkan diet normal secara bertahap
+188,188,Penyakit tipus,Ikuti rekomendasi medis
+189,189,Penyakit tipus,Hindari alkohol dan kafein
+250,250,TBC,Konsumsi makanan tinggi protein
+251,251,TBC,Sertakan makanan kaya nutrisi
+252,252,TBC,Tetap terhidrasi
+253,253,TBC,Konsumsi makanan yang kaya vitamin A dan C
+254,254,TBC,Sertakan makanan kaya seng
+255,255,TBC,Batasi makanan dan minuman manis
+256,256,TBC,Konsultasikan dengan profesional kesehatan
+257,257,TBC,Istirahat dan hemat energi
+258,258,TBC,Lanjutkan diet normal secara bertahap
+259,259,TBC,Ikuti rekomendasi medis
+260,260,Flu biasa,Tetap terhidrasi
+261,261,Flu biasa,Sertakan makanan kaya nutrisi
+262,262,Flu biasa,Konsumsilah makanan yang kaya vitamin C dan antioksidan
+263,263,Flu biasa,Sertakan makanan kaya seng
+264,264,Flu biasa,Batasi makanan dan minuman manis
+265,265,Flu biasa,Konsumsilah sup ayam
+266,266,Flu biasa,Konsultasikan dengan profesional kesehatan
+267,267,Flu biasa,Istirahat dan hemat energi
+268,268,Flu biasa,Lanjutkan diet normal secara bertahap
+269,269,Flu biasa,Ikuti rekomendasi medis
+270,270,Radang paru-paru,Tetap terhidrasi
+271,271,Radang paru-paru,Sertakan makanan kaya nutrisi
+272,272,Radang paru-paru,Konsumsilah makanan yang kaya vitamin C dan antioksidan
+273,273,Radang paru-paru,Sertakan makanan kaya seng
+274,274,Radang paru-paru,Batasi makanan dan minuman manis
+275,275,Radang paru-paru,Konsumsilah sup ayam
+276,276,Radang paru-paru,Konsultasikan dengan profesional kesehatan
+277,277,Radang paru-paru,Istirahat dan hemat energi
+278,278,Radang paru-paru,Lanjutkan diet normal secara bertahap
+279,279,Radang paru-paru,Ikuti rekomendasi medis
+280,280,Wasir dimorfik (tumpukan),Konsumsi makanan berserat tinggi
+281,281,Wasir dimorfik (tumpukan),Tetap terhidrasi
+282,282,Wasir dimorfik (tumpukan),Sertakan makanan kaya nutrisi
+283,283,Wasir dimorfik (tumpukan),Konsumsilah makanan yang kaya akan flavonoid
+284,284,Wasir dimorfik (tumpukan),Batasi makanan olahan
+285,285,Wasir dimorfik (tumpukan),Hindari makanan pedas dan berminyak
+286,286,Wasir dimorfik (tumpukan),Konsultasikan dengan profesional kesehatan
+287,287,Wasir dimorfik (tumpukan),Praktikkan kebersihan yang baik
+288,288,Wasir dimorfik (tumpukan),Lanjutkan diet normal secara bertahap
+289,289,Wasir dimorfik (tumpukan),Ikuti rekomendasi medis

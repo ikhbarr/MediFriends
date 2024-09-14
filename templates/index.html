@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Health Care Center</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+  </head>
+
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MediFriends Navbar</title>
+    <!-- Bootstrap CSS for modal functionality -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkDGMKuPC26PRnAYI6z/Sw9MR7B06cM9VFPpc03Vj2lV7K7/KNi1L" crossorigin="anonymous">
+    <style>
+        /* General Styles */
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #ffff; /* Light blue background */
+        }
+
+        /* Navbar Styles */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #24336E; /* Light blue */
+            padding: 10px 20px;
+        }
+
+        .navbar .logo {
+            font-size: 24px;
+            color: white;
+            font-weight: bold;
+        }
+
+        .navbar .logo span {
+            font-weight: normal;
+            color: white;
+        }
+
+        /* Button to open the modal */
+        .navbar .menu {
+            display: flex;
+            align-items: center;
+        }
+
+        .navbar .menu .symptoms-btn {
+            background-color: #1e88e5; /* Blue button */
+            border: none;
+            padding: 10px 20px;
+            color: white;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        /* Mobile view */
+        @media (max-width: 768px) {
+            .navbar .menu .symptoms-btn {
+                padding: 8px 15px;
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar">
+    <div class="logo">
+        Medi<span>Friends</span>
+    </div>
+    <div class="menu">
+        <button type="button" class="symptoms-btn" data-bs-toggle="modal" data-bs-target="#symptomsModal">
+            Lihat Gejala
+        </button>
+    </div>
+</nav>
+
+<!-- Modal -->
+<div class="modal fade" id="symptomsModal" tabindex="-1" aria-labelledby="symptomsModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="symptomsModalLabel">Kumpulan Gejala</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <ul>
+                    <li>Gatal</li>
+                    <li>Ruam kulit</li>
+                    <li>Bersin terus menerus</li>
+                    <li>Panas dingin</li>
+                    <li>Nyeri sendi</li>
+                    <li>Sakit perut</li>
+                    <li>Keasaman</li>
+                    <li>Bisul di lidah</li>
+                    <li>Pengecilan otot</li>
+                    <li>Muntah</li>
+                    <li>Kelelahan</li>
+                    <li>Penurunan berat badan</li>
+                    <li>Kegelisahan</li>
+                    <li>Kelesuan</li>
+                    <li>Bercak di tenggorokan</li>
+                    <li>Kadar gula tidak teratur</li>
+                    <li>Batuk</li>
+                    <li>Demam tinggi</li>
+                    <li>Sesak napas</li>
+                    <li>Berkeringat</li>
+                    <li>Gangguan pencernaan</li>
+                    <li>Sakit kepala</li>
+                    <li>Kulit kekuningan</li>
+                    <li>Urin gelap</li>
+                    <li>Mual</li>
+                    <li>Kehilangan nafsu makan</li>
+                    <li>Rasa sakit di belakang mata</li>
+                    <li>Sakit punggung</li>
+                    <li>Sembelit</li>
+                    <li>Sakit abdominal</li>
+                    <li>Diare</li>
+                    <li>Demam ringan</li>
+                    <li>Mata menguning</li>
+                    <li>Pembengkakan kelenjar getah bening</li>
+                    <li>Rasa tidak enak</li>
+                    <li>Penglihatan kabur dan terdistorsi</li>
+                    <li>Dahak</li>
+                    <li>Iritasi tenggorokan</li>
+                    <li>Mata kemerahan</li>
+                    <li>Tekanan sinus</li>
+                    <li>Pilek</li>
+                    <li>Penyumbatan</li>
+                    <li>Nyeri dada</li>
+                    <li>Detak jantung cepat</li>
+                    <li>Nyeri saat buang air besar</li>
+                    <li>Nyeri di wilayah anal</li>
+                    <li>Darah dalam tinja</li>
+                    <li>Iritasi di anus</li>
+                    <li>Pusing</li>
+                    <li>Kegemukan</li>
+                    <li>Kelaparan berlebihan</li>
+                    <li>Kontak di luar nikah</li>
+                    <li>Kehilangan keseimbangan</li>
+                    <li>Kehilangan indra penciuman</li>
+                    <li>Masuk angin</li>
+                    <li>Gatal internal</li>
+                    <li>Penampilan toksik</li>
+                    <li>Depresi</li>
+                    <li>Sifat lekas marah</li>
+                    <li>Nyeri otot</li>
+                    <li>Bintik merah di tubuh</li>
+                    <li>Sakit perut bagian kiri</li>
+                    <li>Peningkatan nafsu makan</li>
+                    <li>Poliuria</li>
+                    <li>Dahak berkarat</li>
+                    <li>Kurangnya konsentrasi</li>
+                    <li>Gangguan visual</li>
+                    <li>Darah dalam dahak</li>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Bootstrap JS for modal functionality -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-7kQ6HTdSPS+G4KJAIrRk7RskJv1EbrVn5A4XyTCHE9/tkIxNMMH5xK0SfrP1p5JQ" crossorigin="anonymous"></script>
+
+</body>
+</html>
+
+
+<!-- main form of page -->
+<h1 class="mt-4 my-4 text-center">Sistem Prediksi Penyakit</h1>
+<div class="container my-4 mt-4">
+    <form action="/predict" method="post">
+        <div class="form-group">
+            <label for="symptoms">Masukkan gejala:</label>
+            <input type="text" class="form-control" id="symptoms" name="symptoms" placeholder="input gejala seperti mual,sakit perut,gatal,dll">
+        </div>
+        <br><br>
+        <div name="mysysms" id="transcription"></div>
+
+        {% if message %}
+        <p>{{ message }}</p>
+        {% endif %}
+        <br>
+
+        <button type="submit" class="btn btn-danger btn-lg" style="width: 100%; padding: 14px; margin-bottom: 5px;">Prediksi</button>
+    </form>
+</div>
+
+{% if predicted_disease %}
+
+<!-- Results -->
+<h1 class="text-center my-4 mt-4">Hasil Prediksi</h1>
+<div class="container">
+    <!-- Buttons to toggle display -->
+    <button class="toggle-button" data-bs-toggle="modal" data-bs-target="#diseaseModal" style="padding:4px;  margin: 5px 40px 5px 0; font-size:20px;font-weight:bold; width:140px; border-radius:5px; background:#24336E;color:white;">Penyakit</button>
+    <button class="toggle-button" data-bs-toggle="modal" data-bs-target="#descriptionModal" style="padding:4px; margin: 5px 40px 5px 0; font-size:20px;font-weight:bold; width:140px; border-radius:5px; background:#24336E ;color:white;">Deskripsi</button>
+    <button class="toggle-button" data-bs-toggle="modal" data-bs-target="#precautionModal" style="padding:4px; margin: 5px 40px 5px 0; font-size:20px;font-weight:bold; width:140px; border-radius:5px; background:#24336E ;color:white;">Pencegahan</button>
+    <button class="toggle-button" data-bs-toggle="modal" data-bs-target="#medicationsModal" style="padding:4px; margin: 5px 40px 5px 0; font-size:20px;font-weight:bold; width:140px;border-radius:5px; background:#24336E ;color:white;">Pengobatan</button>
+    <button class="toggle-button" data-bs-toggle="modal" data-bs-target="#workoutsModal" style="padding:4px; margin: 5px 40px 5px 0; font-size:20px;font-weight:bold; width:140px; border-radius:5px; background:#24336E ;color:white;">Olahraga</button>
+    <button class="toggle-button" data-bs-toggle="modal" data-bs-target="#dietsModal" style="padding:4px; margin: 5px 40px 5px 0; font-size:20px;font-weight:bold; width:140px; border-radius:5px; background:#24336E;color:white;">Diet</button>
+</div>
+
+{% endif %}
+
+<!-- Disease Modal -->
+<div class="modal fade" id="diseaseModal" tabindex="-1" aria-labelledby="diseaseModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="diseaseModalLabel">Predicted Disease</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>{{ predicted_disease }}</p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Description Modal -->
+<div class="modal fade" id="descriptionModal" tabindex="-1" aria-labelledby="descriptionModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #020606; color:white;">
+                <h5 class="modal-title" id="descriptionModalLabel">Description</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>{{ dis_des }}</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Precaution Modal -->
+<div class="modal fade" id="precautionModal" tabindex="-1" aria-labelledby="precautionModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #020606; color:white;">
+                <h5 class="modal-title" id="precautionModalLabel">Pencegahan</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <ul>
+                    {% for i in my_precautions %}
+                        <li>{{ i }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!-- Medications Modal -->
+<div class="modal fade" id="medicationsModal" tabindex="-1" aria-labelledby="medicationsModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #020606; color:white;">
+                <h5 class="modal-title" id="medicationsModalLabel">Medications</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <ul>
+                    {% for i in medications %}
+                        <li>{{ i }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Workouts Modal -->
+<div class="modal fade" id="workoutsModal" tabindex="-1" aria-labelledby="workoutsModalLabel" aria-hidden="true">
+    <div class="modal-dialog" >
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #020606; color:white;">
+                <h5 class="modal-title" id="workoutsModalLabel">Workouts</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <ul>
+                    {% for i in workout %}
+                        <li>{{ i }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Diets Modal -->
+<div class="modal fade" id="dietsModal" tabindex="-1" aria-labelledby="dietsModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #020606; color:white;">
+                <h5 class="modal-title" id="dietsModalLabel">Diets</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <ul>
+                    {% for i in my_diet %}
+                        <li>{{ i }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Modals for Description, Precaution, Medications, Workouts, Diets -->
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
